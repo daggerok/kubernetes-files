@@ -2,4 +2,5 @@
 
 This repository contains kubernetes / k8s file examples
 
-. link:postgres/[postgres]
+. link:kube-registry/[kubernetes local registry]
+. link:postgres/[postgres database]
