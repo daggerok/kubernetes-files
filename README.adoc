@@ -1,0 +1,5 @@
+= kubernetes-files
+
+This repository contains kubernetes / k8s file examples
+
+. link:postgres/[postgres]
